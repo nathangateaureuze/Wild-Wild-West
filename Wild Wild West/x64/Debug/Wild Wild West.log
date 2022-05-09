@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Legic\source\repos\Wild Wild West\Wild Wild West\Source.cpp(1,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\Legic\source\repos\Wild Wild West\Wild Wild West\Source.cpp(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\Legic\source\repos\Wild Wild West\Wild Wild West\Source.cpp(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\Legic\source\repos\Wild Wild West\Wild Wild West\Source.cpp(5,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  Wild Wild West.vcxproj -> C:\Users\Legic\source\repos\Wild Wild West\x64\Debug\Wild Wild West.exe
